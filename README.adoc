@@ -1,5 +1,7 @@
 = ArduinoECCX08 =
 
+image:https://github.com/arduino-libraries/ArduinoECCX08/workflows/Compile%20Examples/badge.svg["Compile Examples Status", link="https://github.com/arduino-libraries/ArduinoECCX08/actions?workflow=Compile+Examples"] image:https://github.com/arduino-libraries/ArduinoECCX08/workflows/Spell%20Check/badge.svg["Spell Check Status", link="https://github.com/arduino-libraries/ArduinoECCX08/actions?workflow=Spell+Check"]
+
 Arduino Library for the Atmel/Microchip ECC508 and ECC608 crypto chips
 
 == License ==
